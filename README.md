@@ -1,7 +1,5 @@
 # 👋 I'm Juan Santillán | Front-End Engineer 👨‍💻
 
----
-
 ## 🚀 About Me
 
 - 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **More**
