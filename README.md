@@ -45,5 +45,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=machadop1407&theme=react" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=machadop1407&theme=react" /> -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=JuanYut)](https://git.io/streak-stats)
 </div>
