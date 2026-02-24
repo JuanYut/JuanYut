@@ -45,6 +45,5 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=react&hide=contribs&count_private=true" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=machadop1407&theme=react" />
 </div>
