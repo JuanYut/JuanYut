@@ -1,8 +1,5 @@
 # 👋 I'm Juan Santillán | Front-End Engineer 👨‍💻
 
-<div align="center">
-</div>
-
 ---
 
 ## 🚀 About Me
