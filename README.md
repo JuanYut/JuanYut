@@ -15,11 +15,9 @@
 📧 **Email:** [juansantillantorres@gmail.com](mailto:juansantillantorres@gmail.com)  
 📱 **Phone:** +52 312 210 6957
 🇲🇽 **Mexico**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-santillan-mx/) 
-📧 **Email:** [juansantillantorres@gmail.com](mailto:juansantillantorres@gmail.com)  
 📱 **Phone:** +52 312 210 6957  
 🇲🇽 **Mexico**  
+
 ---
 
 ## 🔥 Tech Stack
