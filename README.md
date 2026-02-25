@@ -1,4 +1,4 @@
-# 👋 I'm Juan Santillán | Front-End Engineer 👨‍💻
+# 👋 I'm Juan Santillán | Software Engineer 👨‍💻
 
 ## 🚀 About Me
 
