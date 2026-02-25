@@ -11,9 +11,13 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-santillan-mx/)
-📧 **Email:** [juan.santillan@email.com](mailto:juan.santillan@email.com)  
-📱 **Phone:** +52 312 123 4567
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-santillan-mx/)  
+📧 **Email:** [juansantillantorres@email.com](mailto:juansantillantorres@email.com)  
+📱 **Phone:** +52 312 210 6957
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-santillan-mx/)<br>
+📧 **Email:** [juansantillantorres@email.com](mailto:juansantillantorres@email.com)<br>
+📱 **Phone:** +52 312 210 6957
 
 ---
 
