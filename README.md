@@ -12,6 +12,8 @@
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-santillan-mx/)
+📧 **Email:** [juan.santillan@email.com](mailto:juan.santillan@email.com)  
+📱 **Phone:** +52 312 123 4567
 
 ---
 
