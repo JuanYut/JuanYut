@@ -1,4 +1,4 @@
-# 👋 I'm Juan Santillán | Software Engineer 👨‍💻
+# 👋 I'm Juan Santillán | Frontend Developer (React) | UI/UX Background 👨‍💻
 
 ## 🚀 About Me
 
